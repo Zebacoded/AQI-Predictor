@@ -9,6 +9,7 @@ An Air Quality Index prediction and visualization project that analyzes CSV data
 - Plotly
 - Matplotlib
 - Streamlit
+- Jupyter Notebook
 
  # Features
 - Import AQI datasets from CSV files
